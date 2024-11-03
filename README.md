@@ -1,1 +1,1 @@
-# Obisidian共有のためのプロジェクト
+# Obisidian共有のためのリポジトリ
