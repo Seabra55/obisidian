@@ -2,6 +2,7 @@
 - Auto Link Title
 - Calendar
 - Editing Toolbar
+- Emoji Toolbar
 - Excalidraw
 - Kanban
 
