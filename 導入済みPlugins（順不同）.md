@@ -5,6 +5,7 @@
 - Emoji Toolbar
 - Excalidraw
 - Kanban
+- Git
 
 # 導入済みTheme
 - Minimal
